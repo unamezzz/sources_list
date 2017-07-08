@@ -1,0 +1,7 @@
+#deb cdrom:[Debian GNU/Linux 7.11.0 _Wheezy_ - Official amd64 DVD Binary-1 20160605-17:36]/ wheezy contrib main
+deb http://mirrors.163.com/debian wheezy main non-free contrib
+deb-src http://mirrors.163.com/debian wheezy main non-free contrib
+deb http://mirrors.163.com/debian wheezy-updates main non-free contrib
+deb-src http://mirrors.163.com/debian wheezy-updates main non-free contrib
+deb http://security.debian.org/ wheezy/updates main
+deb-src http://security.debian.org/ wheezy/updates main
